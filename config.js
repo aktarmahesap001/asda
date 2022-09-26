@@ -1,5 +1,5 @@
 module.exports = {
-TOKEN: "MTAyMzk4NjMzNDg2MTM2OTUwOA.G77CAv.YLxlPYNHtOHQ2L-oGZkxMXqgO25AaDFO_APCzY",
+TOKEN: "MTAyMzk4NjMzNDg2MTM2OTUwOA.GJY7pu.YJqrQa8M6vE80AYDBO4F4KD9pB_GDKw0ykbWH4",
 ownerID: "338436343384506380", //write your discord user id.
 botInvite: "https://discord.com/api/oauth2/authorize?client_id=1023986334861369508&permissions=8&scope=bot%20applications.commands", //write your discord bot invite.
 mongodbURL: "mongodb+srv://aslan:aslan@cluster0.hl0qhaq.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
